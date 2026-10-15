@@ -1,0 +1,6 @@
+{
+  "name": "Brain Test",
+  "description": "Challenging brain teaser and tricky puzzle game featuring 500 levels, logic tests, and an interactive hint system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
